@@ -1,0 +1,6 @@
+To Open this file Follow the following Instraction
+
+1.Open Visual Stdio 2008/any version
+2.Goto "FILE">>"OPEN">>"FILE"
+3.Select the "Igraphics.sln" Or "Igraphics(Which Has a Microsoft Visual Stdio Extention)"
+4.Then Debug and RUN it....
